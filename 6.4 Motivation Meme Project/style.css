@@ -1,0 +1,38 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+    border: 5px solid ;
+    margin-bottom: 10px;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 17px;
+    font-family: 'Libre Baskerville', serif;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 12px;
+}
